@@ -35,9 +35,9 @@
 # b, a = f2(a, b)
 # print(f"a = {a}, b = {b}")
 
-c = 26
-a = 26
-b = 26
+c = 30
+a = 30
+b = 30
 a, b, c = c, c, c
 print(a)
 print(b)
